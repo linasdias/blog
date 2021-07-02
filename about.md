@@ -12,7 +12,7 @@ lina
 
 ---
 
-*hi! i'm a computer science undergrad student at ufpi, in brazil. i'll be updating this blog and @linalinastudy on instagram with weekly posts about my studies, especially about hci and ux design! i'll be also posting about language learning, which is my main hobby, but fully in english to enhance my vocabulary. if you're a native speaker and find something wrong or any minor typo, feel free to contact me asap about it, please! post at linalina will be translated to brazilian portuguese. i hope you like this small space i'm trying to create!*
+*hi! i am a computer science undergrad student at ufpi, in brazil. i will be updating this blog and @linalinastudy on instagram with weekly posts about my studies, especially about hci and ux design! i will be also posting about language learning, which is my main hobby, but fully in english to enhance my vocabulary. if you are a native speaker and find something wrong or any minor typo, feel free to contact me asap about it, please! post at linalina will be translated to brazilian portuguese. i hope you like this small space i am trying to create!*
 
 *thx,*
 

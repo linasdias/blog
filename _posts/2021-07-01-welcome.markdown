@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "welcome to my blog!"
+date: 2021-07-01 21:06:26 +0800
+categories: hello
+---
+
+hi everyone!
+it's been a difficult journey since i left linalinastudy deactivated for over a semester. i needed to focus on my mental health (which i actually did not) and on actual exams (which i REALLY dedicated myself to), and the recent critiques have been bothering and distracting me from both. but now i'm closer to vacation and i decided to return to my favorite hobby, which is writing stuff.
+
+i've been an avid writer since high school. some random day before national examinations, a teacher presented an essay competition to my class and, needless to say, at first i wasn't interested. then, i heard about the prize: 1600 reais, which is roughly 300+ USD. i thought it was a reasonable amount of money for a high schooler and applied, even if my last essays tended more to trashwriting than to actual ENEM-1000-score masterpieces. i won first place and the money, which i used to buy the cellphone i still use today, almost 4 years later.
+
+i actually liked it and started applying for other competitions. for a newspaper essay competition, i wrote about lgbtqia+ issues in russia and got 3rd place (and a tablet which did not last 3 months). then, i stopped. i entered computer science uni and decided to pursue Mathematical Knowledge. of course, it failed miserably and i failed at three subjects at once -- i was destroyed, it was the first time i actually failed a subject. but in the next semester i applied for scholarships to internet governance events. i wrote about feminism on the internet, privacy issues and a lot of things that i literally learned as i was writing.
+
+i won scholarships to travel to Natal-RN and Chile, but the pandemic hit and i couldn't go anywhere. yet.
+
+before applying, i created linalinastudy as a safe space for me to share my study tips and what was working -- or not -- for me. in my last post, i showed a small cheatsheet i made for learning Python and i was attacked in a spam-bot speed by people who said 'you will never learn SHIT if you keep doing these cheatsheets and paper reviews!!! you need to code a little!!!' and i tried to say i was coding, but i did not post anything as i didn't felt so confident in the beginning. it came to my dms, i apologized and deleted the post.
+
+in the following days, i was so stressed out, demotivated because of the 'you will never learn anything' comments, and i felt hated by people i didn't even know. so i felt like it was the day to close linalinastudy for a long time. i tried to revive it a few times, but i never could follow an actual schedule because i was still fearing that those comments would come back at any time, in my dms, or anywhere else -- i literally made my personal account private for a month. i remembered the days when i first tried youtube, still in middle school, and someone left a whole-page essay on my only video about how i was not qualified to keep up a hobby channel, how i was so ugly, how i was so weird at school, how i sang really bad on the school festival... and things of this nature really annoy me to a level of quitting.
+
+please, if you ever thought about doing this to someone, don't. for you, it will be just a light comment you won't remember in two days. for me, it has been almost 6 years of trauma.
+
+now, i'm trying to revive it again with an english blog addition so i don't get actually that demotivated: now, i'm studying for English proficiency tests such as TOEFL, and to write in English is a good way to study for me.
+
+hoping i won't give up again,
+
+-lina

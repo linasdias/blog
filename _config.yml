@@ -19,6 +19,7 @@ github_username:  linasdias
 markdown: kramdown
 kramdown:
   input: GFM
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 # Third-party services
 # just leave someone empty to disable it

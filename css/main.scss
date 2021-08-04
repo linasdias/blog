@@ -3,32 +3,6 @@
 ---
 @charset "utf-8";
 
-html, html[data-theme="light"] { 
-	  --text-color: #111;
-  	--link-color: #2a7ae2;
-  	--main-background-color: #fdfdfd;
-}
-
-html[data-theme="dark"] {
-		  --text-color: #f6f6f6;
-  		--link-color: rgb( 100, 210, 255);
-  		--main-background-color: #121212;
-}
-
-@media (prefers-color-scheme: dark) {
-	html, html[data-theme="dark"] {
-    --text-color: #f6f6f6;
-    --link-color: rgb( 100, 210, 255);
-    --main-background-color: #121212;
-  }
-	
-	html[data-theme="light"] { 
-	  --text-color: #111;
-  	--link-color: #2a7ae2;
-  	--main-background-color: #fdfdfd;
-  }
-}
-
 // Our variables
 $base-font-family:  Helvetica, "Helvetica Neue", Arial, sans-serif;
 $base-font-size:   16px;
@@ -55,7 +29,31 @@ $content-width:    800px;
 $on-palm:          550px;
 $on-laptop:        780px;
 
+html, html[data-theme="light"] { 
+  --text-color: #111;
+  --link-color: #2a7ae2;
+  --main-background-color: #fdfdfd;
+}
 
+html[data-theme="dark"] {
+    --text-color: #f6f6f6;
+    --link-color: rgb( 100, 210, 255);
+    --main-background-color: #121212;
+}
+
+@media (prefers-color-scheme: dark) {
+html, html[data-theme="dark"] {
+  --text-color: #f6f6f6;
+  --link-color: rgb( 100, 210, 255);
+  --main-background-color: #121212;
+}
+
+html[data-theme="light"] { 
+  --text-color: #111;
+  --link-color: #2a7ae2;
+  --main-background-color: #fdfdfd;
+}
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {

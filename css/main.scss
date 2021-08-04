@@ -1,6 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 // Our variables
@@ -29,30 +30,30 @@ $content-width:    800px;
 $on-palm:          550px;
 $on-laptop:        780px;
 
-html, html[data-theme="light"] { 
+html, html[data-theme="light"] {
   --text-color: #111;
   --link-color: #2a7ae2;
   --main-background-color: #fdfdfd;
 }
 
 html[data-theme="dark"] {
-    --text-color: #f6f6f6;
-    --link-color: rgb( 100, 210, 255);
-    --main-background-color: #121212;
-}
-
-@media (prefers-color-scheme: dark) {
-html, html[data-theme="dark"] {
   --text-color: #f6f6f6;
   --link-color: rgb( 100, 210, 255);
   --main-background-color: #121212;
 }
 
-html[data-theme="light"] { 
-  --text-color: #111;
-  --link-color: #2a7ae2;
-  --main-background-color: #fdfdfd;
-}
+@media (prefers-color-scheme: dark) {
+  html, html[data-theme="dark"] {
+    --text-color: #f6f6f6;
+    --link-color: rgb( 100, 210, 255);
+    --main-background-color: #121212;
+  }
+
+  html[data-theme="light"] {
+    --text-color: #111;
+    --link-color: #2a7ae2;
+    --main-background-color: #fdfdfd;
+  }
 }
 
 // Use media queries like this:
@@ -63,9 +64,9 @@ html[data-theme="light"] {
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
 
 .dont-break-out {
@@ -82,10 +83,10 @@ html[data-theme="light"] {
 
 }
 
-@import
-        "normalize",
-        "base",
-        "layout",
-        "color",
+@import 
+        "normalize", 
+        "base", 
+        "layout", 
+        "color", 
         "syntax-highlighting"
 ;

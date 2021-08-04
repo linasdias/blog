@@ -2,7 +2,7 @@ let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)");
 let theme = sessionStorage.getItem('theme');
 
 if (systemInitiatedDark.matches) {
-	document.getElementById("theme-toggle").innerHTML = "light Mode";
+	document.getElementById("theme-toggle").innerHTML = "light mode";
 } else {
 	document.getElementById("theme-toggle").innerHTML = "dark Mode";
 }

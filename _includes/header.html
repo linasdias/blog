@@ -1,4 +1,3 @@
-<script src="/scripts/mode-switcher.js"></script>
 <header class="site-header">
 
   <h2 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h2>
@@ -19,7 +18,6 @@
       <nav>
         <ul class="page-link">
           <li><a href="{{ "/" | prepend: site.baseurl }}">home</a></li>
-          <li><a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a></li>
           <li><a href="{{ "/archive" | prepend: site.baseurl }}">posts</a></li>
           <li><a href="{{ "/about" | prepend: site.baseurl }}">about</a></li>
           <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">rss</a></li>

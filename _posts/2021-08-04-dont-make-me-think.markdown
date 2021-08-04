@@ -9,7 +9,7 @@ hi again!
 while i was translating 'the design of everyday things' i got a little distracted and read 'don't make me think' simultaneously, which messed up my posting schedule, so i'm posting both highlights at the same time.
 hope you like it!
 
-#### guiding principles
+## guiding principles
 - "the most important thing i should do if i want to make sure my site or app is easy to use is 'don't make me think!'. your work should be self-evident."
 
 - "the most important thing you can do is to understand the basic principle of eliminating question marks. when you do, you'll begin to notice all the things that make you think in the sites and apps you use. and eventually you'll learn to recognize and avoid them in the things you're building."
@@ -34,19 +34,19 @@ hope you like it!
 
 - "on the face of it, 'number of clicks to get anywhere' seems like a useful metric. but over time i've come to think that what really counts is not the number of clicks it takes me to get to what I want (although there are limits), but rather how hard each click is -- the amount of thought required and the amount of uncertainty about whether i'm making the right choice."
 
-#### things you need to get right
+## things you need to get right
 - "it's a fact: people won't use your website if they can't find their way around it."
 
 - "two of the purposes of navigation are fairly obvious: to help us find whatever it is we're looking for and to tell us where we are. but navigation has some other equally important -- and easily overlooked functions: it tells us what's here, how to use the site and it gives us confidence in the people who built it."
 
-#### making sure you got them right
+## making sure you got them right
 - "while the hype culture (upper management, marketing, and business development) is focused on making whatever promises are necessary to attract venture capital, revenue-generating deals, and users to the site, the burden of delivering on those promises lands on the shoulders of the craft culture artisans like the designers and developers. this modern high-tech version of the perennial struggle between art and commerce adds another level of complexity to any discussions of usability issues -- often in the form of apparently arbitrary edicts handed down from the hype side of the fence."
 
 - "the point is, it's not productive to ask questions like 'do most people like pull-down menus?' the right kind of question to ask is 'does this pull-down, with these items and this wording in this context on this page create a good experience for most people who are likely to use this site?'"
 
 - "focus ruthlessly on fixing the most serious problems first: make a collective list; choose the ten most serious problems; rate them; create an ordered list. when you feel like you've allocated all the time and resources you have available in the next month for fixing usability problems, stop. you've got what you came for. the group has now decided what needs to be fixed and made a commitment to fixing it."
 
-#### larger concerns and outside influences
+## larger concerns and outside influences
 - "managing real estate challenges shouldn't be done at the cost of usability."
 
 - "the truth is, it's a lot harder than it ought to be to make a site accessible. after all, most designers and developers are not going to become accessibility experts. if web accessibility is going to become ubiquitous, it's going to have to be easier to do. screen readers and other adaptive technologies have to get smarter, the tools for building sites have to make it easier to code correctly for accessibility, and our design processes need to be updated to include thinking about accessibility from the beginning."
